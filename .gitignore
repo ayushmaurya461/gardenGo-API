@@ -1,0 +1,43 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@ayushmaurya461 
+ayushmaurya461
+/
+Routing-Angular
+Private
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Settings
+Beta Try the new code view
+Routing-Angular/.gitignore
+@ayushmaurya461
+ayushmaurya461 Routing
+Latest commit 02686ba 10 minutes ago
+ History
+ 1 contributor
+42 lines (36 sloc)  548 Bytes
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
